@@ -12,6 +12,6 @@
     <Tab.Screen name={'Tên màn hình'} component={Tên màn hình}/>
     trong thẻ <Tab.Navigator>
     - reload app
-Có thể xem thêm về cách cài Navigator trong video 15
+- Nếu thắc mắc hoặc bị lỗi, có thể xem thêm về cách cài Navigator trong video 15
 
 
