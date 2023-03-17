@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182345423012",
+    "project_id": "felp-f0c68",
+    "storage_bucket": "felp-f0c68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182345423012:android:92c264e59f15d2a105ae31",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182345423012-6e6g1lfh5rfpuqdfp2v5h3rg80jtjla1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl5sEpTVGuA6ZAPyr_Ry2AGArxpkX8pSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182345423012-6e6g1lfh5rfpuqdfp2v5h3rg80jtjla1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
